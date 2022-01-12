@@ -1,1 +1,7 @@
-
+<description>
+  <summary>При нажатии на кнопку 'Обувь' появлется ошибка 404</summary>
+  <observed_behavior>404 ошибка появлется при открытии страницы</observed_behavior>
+  <expected_behavior>открывается страница с ассортиментом обуви</expected_behavior>
+  <steps>1.открыть сайт ...; 2.нажать на вкладку 'Обувь'</steps>
+  <severity>высокая</severity>
+</description>
